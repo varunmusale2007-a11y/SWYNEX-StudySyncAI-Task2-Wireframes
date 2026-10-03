@@ -170,6 +170,54 @@ The wireframes intentionally use basic shapes, placeholders, and grayscale eleme
 
 before moving to high-fidelity visual design.
 
+🎯 6. UX Goals
 
+The main UX goals of StudySync AI are to:
+
+📚 Make studying more organized
+⏱️ Reduce the effort required to manage study tasks
+🤖 Provide quick access to AI assistance
+📅 Help students create structured study plans
+📊 Make academic progress easy to understand
+🧭 Keep navigation simple and intuitive
+
+📦 7. Deliverables
+
+This Task 2 submission includes:
+
+Information Architecture
+Low-Fidelity Wireframes
+Major Screen Layouts
+Intended User Flow
+UX Design Decisions
+StudySync AI Project Documentation
+
+🛠️ 8. Tools Used
+| Tool       | Purpose                                     |
+| ---------- | ------------------------------------------- |
+| **Figma**  | Information Architecture & Wireframe Design |
+| **GitHub** | Project Documentation & Submission          |
+
+📋 9. Project Details
+| Detail           | Information                                                 |
+| ---------------- | ----------------------------------------------------------- |
+| **Project Name** | StudySync AI                                                |
+| **Organization** | Swynex Technologies                                         |
+| **Task**         | Task 2 – Information Architecture & Low-Fidelity Wireframes |
+| **Focus**        | UX Research, IA & Wireframe Design                          |
+| **Domain**       | AI / EdTech / UX Design                                     |
+
+🔗 10. Figma Design
+
+The complete Information Architecture and Low-Fidelity Wireframes were designed in Figma.
+
+Figma Link:
+[Add your Figma link here]
+
+🏁 Conclusion
+
+The StudySync AI wireframes establish the basic structure, navigation, and user flow of the product before moving into high-fidelity visual design.
+
+The proposed structure focuses on helping students quickly access their study plans, subjects, schedules, AI assistance, and progress while maintaining a simple, organized, and intuitive user experience.
 
 
