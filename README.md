@@ -212,7 +212,7 @@ StudySync AI Project Documentation
 The complete Information Architecture and Low-Fidelity Wireframes were designed in Figma.
 
 Figma Link:
-[ https://www.figma.com/community/file/1688117197350302376]
+https://www.figma.com/community/file/1688117197350302376
 
 🏁 Conclusion
 
