@@ -62,3 +62,114 @@ StudySync AI
     ├── Profile
     ├── Preferences
     └── Notifications
+
+🖼️ 2. Major Screens
+
+The low-fidelity wireframes cover the following major screens:
+
+🔐 Login / Sign Up
+👤 Student Onboarding
+📚 Add Subjects
+🏠 Dashboard
+📅 Study Planner
+📖 My Subjects
+📝 Today's Schedule
+🤖 Study AI
+🗓️ Calendar
+📊 Progress
+⚙️ Profile / Settings
+
+The wireframes focus on layout, hierarchy, navigation, and functionality rather than final visual styling.
+
+✏️ 3. Low-Fidelity Wireframes
+
+The wireframes were created using a simple low-fidelity approach to focus on the user experience and information hierarchy before applying the final visual design.
+
+
+| Screen             | Purpose                                            |
+| ------------------ | -------------------------------------------------- |
+| Login / Sign Up    | Account access and registration                    |
+| Student Onboarding | Collects basic student information and preferences |
+| Add Subjects       | Allows students to select their academic subjects  |
+| Dashboard          | Provides an overview of study activities           |
+| Study Planner      | Helps students plan study sessions and tasks       |
+| My Subjects        | Organizes subjects and learning content            |
+| Today's Schedule   | Displays the student's daily study activities      |
+| Study AI           | Provides AI-assisted study support                 |
+| Calendar           | Displays study sessions and deadlines              |
+| Progress           | Shows learning and study progress                  |
+| Profile / Settings | Manages account and preferences                    |
+
+🔄 4. Intended User Flow
+
+The primary user journey takes students from account creation to personalized study management.
+
+Login / Sign Up
+       ↓
+Student Onboarding
+       ↓
+Add Subjects
+       ↓
+Dashboard
+       ↓
+Create Study Plan
+       ↓
+View Today's Schedule
+       ↓
+Study / Access Subjects
+       ↓
+Use Study AI
+       ↓
+Complete Tasks
+       ↓
+Track Progress
+User Journey
+1.The student creates an account or logs in.
+2.The student completes the onboarding process.
+3.The student adds their academic subjects.
+4.The system presents a personalized dashboard.
+5.The student creates or follows a study plan.
+6.The student checks their daily schedule.
+7.The student accesses subjects and study materials.
+8.The student uses Study AI for questions, explanations, and summaries.
+9.Completed activities contribute to the student's progress.
+10.The student reviews their progress and adjusts the study plan.
+
+💡 5. Important Design Decisions
+1. Dashboard-First Experience
+
+The dashboard provides an immediate overview of the student's current tasks, schedule, and progress after login.
+
+2. Simple Navigation
+
+The navigation is kept simple so students can quickly move between:
+
+Dashboard → Study Planner → Subjects → Study AI → Progress → Settings
+
+3. AI Assistance as a Core Feature
+
+Study AI has a dedicated screen because AI assistance is a key part of the StudySync AI experience. It allows students to ask questions, understand difficult topics, and summarize content.
+
+4. Study Planning & Scheduling
+
+The Study Planner and Calendar help students organize study sessions, deadlines, tasks, and academic activities.
+
+5. Progress Tracking
+
+The Progress screen provides an overview of completed activities and learning progress.
+
+6. Low-Fidelity Design Approach
+
+The wireframes intentionally use basic shapes, placeholders, and grayscale elements. This allows the focus to remain on:
+
+1.Functionality
+2.Layout
+3.Navigation
+4.Information hierarchy
+5.User flow
+
+before moving to high-fidelity visual design.
+
+
+
+
